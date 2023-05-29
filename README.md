@@ -1,0 +1,3 @@
+## sentinel-flink-connector-featurestore
+
+[Flink](https://nightlies.apache.org/flink/flink-docs-release-1.17) [connector](https://nightlies.apache.org/flink/flink-docs-release-1.17/docs/connectors/datastream/overview/) for [writing data](https://nightlies.apache.org/flink/flink-docs-release-1.17/docs/dev/table/sourcessinks/) into [Amazon SageMaker Feature Store](https://docs.aws.amazon.com/sagemaker/latest/dg/feature-store.html)
