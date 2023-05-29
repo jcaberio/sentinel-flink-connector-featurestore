@@ -25,7 +25,6 @@ public class FeatureStoreSink<IN> extends RichSinkFunction<IN> {
 
     private final ReadableConfig config;
     private final DataType physicalRowDataType;
-
     private transient SageMakerFeatureStoreRuntimeClient client;
 
     public FeatureStoreSink(ResolvedSchema resolvedSchema, ReadableConfig config) {
